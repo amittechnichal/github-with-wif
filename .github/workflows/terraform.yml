@@ -1,4 +1,4 @@
-name: Terraform GCP Deployment
+name: Terraform bucket
 
 on:
   push:
